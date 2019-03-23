@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "softwaresurfers.petclinicappointmentsystem.PetClinicAppointmentSystemProperties",
+      "name": "petclinicappointmentsystem",
+      "type": "softwaresurfers.petclinicappointmentsystem.PetClinicAppointmentSystemProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "softwaresurfers.petclinicappointmentsystem.PetClinicAppointmentSystemProperties",
+      "name": "petclinicappointmentsystem.display-pet-clinic-appointment-system",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
